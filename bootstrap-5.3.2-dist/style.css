@@ -1,0 +1,42 @@
+
+
+
+.row-wrapper{
+    display: flex;
+    grid-template-columns: auto;
+    gap: 0.6rem;
+    width: 100%;
+    padding: 0.5rem;
+}
+
+.container-fluid, .row{
+    padding: 0.5rem;
+    height: 100%;
+}
+
+.header-fill, .footer-fill{
+    padding: 2rem;
+    background-color: #4835f2;
+}
+
+.col-2{
+    height: 70vh;
+    padding: 0.5rem;
+    justify-content: center;
+    align-items: center;
+    padding-left: 0.4rem;
+    
+}
+
+.col{
+    height: 35vh;
+    padding: 0.5rem;
+    background-color: #228ee7;
+    
+}
+.col-6{
+    height: 35vh;
+    background-color: #228ee7;
+      
+}
+
